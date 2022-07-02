@@ -7,7 +7,7 @@
       "id": "fqxs_3.5",
   "name": "番茄小说",
   "desc": "变量比较多，按照脚本说明抓取",
-  "keys": ["fqxsurl", "fqxscookie", "fqxstoken", "fqxsua", "fqxsbxurl", "fqxsxsscookie", "fqxsurl2", "fqxscookie2", "fqxstoken2", "fqxsua2", "fqxsbxurl2","fqxsxsscookie2"],
+  "keys": ["mmfqxsurl", "mmfqxscookie", "mmfqxstoken", "mmfqxsua", "mmfqxsbxurl", "mmfqxsxsscookie", "mmfqxsurl2", "mmfqxscookie2", "mmfqxstoken2", "mmfqxsua2", "mmfqxsbxurl2","mmfqxsxsscookie2"],
   "settings": [{
     "id": "xfqxsstatus",
     "name": "当前账号数",
@@ -21,9 +21,9 @@
     "type": "number",
     "desc": "想要跑几个号就填几"
   }],
-  "author": "@dan",
-                        "repo": "https://github.com/danchaofan12138/danchaofan/blob/main/ziyong/fanqiexiaoshuo/fqxs.js",
-                            "icons": ["https://raw.githubusercontent.com/danchaofan12138/danchaofan/main/hbd.png", "https://raw.githubusercontent.com/danchaofan12138/danchaofan/main/hbd.png"],
+  "author": "@mm",
+                
+                           
                                 "script": "https://raw.githubusercontent.com"
    } 
     ]
