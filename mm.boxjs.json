@@ -6,7 +6,7 @@
   "repo": "https://github.com/danchaofan12138/danchaofan",
   "apps": [
     {
-      "id": "fqxs_3.5",
+      "id": "fqxs",
   "name": "番茄小说",
   "desc": "变量比较多，按照脚本说明抓取",
   "keys": ["mmfqxsurl", "mmfqxscookie", "mmfqxstoken", "mmfqxsua", "mmfqxsbxurl", "mmfqxsxsscookie", "mmfqxsurl2", "mmfqxscookie2", "mmfqxstoken2", "mmfqxsua2", "mmfqxsbxurl2","mmfqxsxsscookie2"],
