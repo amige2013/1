@@ -2,6 +2,8 @@
   "id": "mm.app.sub",
   "name": "mm 脚本订阅",
   "author": "@mm",
+  "icon": "https://raw.githubusercontent.com/danchaofan12138/danchaofan/main/hbd.jpeg",
+  "repo": "https://github.com/amige2013/1",
   "apps": [
   {
       "id": "fqxs_3.5",
